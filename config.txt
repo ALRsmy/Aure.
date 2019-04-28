@@ -1,6 +1,6 @@
-owner=445057618839470090
-prefix=sa
-game=Break | saplay
+owner=569349636536664075
+prefix=Au
+game=Break | Auplay
 stayinchannel=true
 songinstatus=false
-token=NTcxMjM3NTYxMDM3NzUwMjc0.XMLMKg.quFKXj2ZLEDFxEFYV4AkcmRMGG8
+token=NTcxMjU5MTUyODg2NzkyMTkz.XMUYBQ.3C_wP_BckEx_vpLxPwVCK2Tv3zk
